@@ -1,0 +1,12 @@
+{
+    "ADD_TO_CART":"افزودن به سبد",
+    "ADD_TO_SHOPPING_CART":"افزودن به سبد خرید",
+    "CART_EMPTY": "سبد خرید شما خالی است",
+    "CART_ITEMS": "کالا",
+    "APPLY_PRICE_RANGE":"اعمال محدوده قیمت",
+    "ONLY_AVAILABLE_GOODS": "فقط کالاهای موجود",
+    "MAIN_PAGE":"صفحه اصلی",
+    "REMOVE":"حذف",
+    "SUM_CART":"جمع سبد خرید",
+    "CONTINUE_BUYING_PROCESS":"ادامه فرآیند خرید"
+}

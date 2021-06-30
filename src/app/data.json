@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "id": "dress1",
+            "title": "Dress 1",
+            "image": "/images/1.jpg",
+            "description": "about dress 1",
+            "price": 19.9,
+            "availableSizes": ["XL", "XXL"]
+        },
+        {
+            "id": "dress2",
+            "title": "Dress 2",
+            "image": "/images/2.jpg",
+            "description": "about dress 2",
+            "price": 29.9,
+            "availableSizes": ["X", "XXL","L"]
+        },
+        {
+            "id": "dress3",
+            "title": "Dress 3",
+            "image": "/images/3.jpg",
+            "description": "about dress 3",
+            "price": 50.9,
+            "availableSizes": ["L", "X"]
+        },
+        {
+            "id": "dress4",
+            "title": "Dress 4",
+            "image": "/images/4.jpg",
+            "description": "about dress 4",
+            "price": 12,
+            "availableSizes": ["L", "X", "M"]
+        },
+        {
+            "id": "dress5",
+            "title": "Dress 5",
+            "image": "/images/5.jpg",
+            "description": "about dress 5",
+            "price": 21.4,
+            "availableSizes": ["XL", "X", "S", "XXL"]
+        },
+        {
+            "id": "dress6",
+            "title": "Dress 6",
+            "image": "/images/6.jpg",
+            "description": "about dress 6",
+            "price": 50.9,
+            "availableSizes": ["L", "X"]
+        },
+        {
+            "id": "dress7",
+            "title": "Dress 7",
+            "image": "/images/7.jpg",
+            "description": "about dress 7",
+            "price": 14.8,
+            "availableSizes": ["XXL", "L"]
+        },
+        {
+            "id": "dress8",
+            "title": "Dress 8",
+            "image": "/images/8.jpg",
+            "description": "about dress 8",
+            "price": 12.5,
+            "availableSizes": ["XXL", "S", "M"]
+        },
+        {
+            "id": "dress9",
+            "title": "Dress 9",
+            "image": "/images/9.jpg",
+            "description": "about dress 9",
+            "price": 13.8,
+            "availableSizes": ["L", "X", "XL", "M"]
+        },
+        {
+            "id": "dress10",
+            "title": "Dress 10",
+            "image": "/images/10.jpg",
+            "description": "about dress 10",
+            "price": 50.9,
+            "availableSizes": ["L", "X"]
+        },
+        {
+            "id": "dress11",
+            "title": "Dress 11",
+            "image": "/images/11.jpg",
+            "description": "about dress 11",
+            "price": 70.5,
+            "availableSizes": ["XL", "X", "M", "S"]
+        },
+        {
+            "id": "dress12",
+            "title": "Dress 12",
+            "image": "/images/12.jpg",
+            "description": "about dress 12",
+            "price": 45,
+            "availableSizes": ["L", "X"]
+        },
+        {
+            "id": "dress13",
+            "title": "Dress 13",
+            "image": "/images/13.jpg",
+            "description": "about dress 13",
+            "price": 16,
+            "availableSizes": ["S", "X", "XXL"]
+        }
+    ]
+}
